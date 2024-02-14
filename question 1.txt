@@ -1,0 +1,7 @@
+Q1: List out the features of HTML 5?
+ Semantic Elements: HTML5 introduces new semantic elements such as <header>, <footer>, <nav>, <article>, <section>, <aside>, and <main>, which provide better structure and meaning to the content.
+
+Audio and Video Support: HTML5 provides native support for embedding audio and video content using the <audio> and <video> elements, eliminating the need for third-party plugins like Flash.
+
+Offline Web Applications: HTML5 introduces the Application Cache (AppCache) and the Web Storage API (localStorage and sessionStorage), enabling developers to create web applications that can work offline and store data locally.
+Form Enhancements: HTML5 introduces new input types (<input type="email">, <input type="url">, etc.), attributes (such as required, placeholder, pattern), and form validation capabilities, making it easier to create forms and improve user experience.

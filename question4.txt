@@ -1,0 +1,4 @@
+Q4:List out any three ways which helps us in improving the accessibility of HTML?
+ Semantic HTML
+ Alternative Text for Images
+ Keyboard Accessibility
